@@ -1,2 +1,3 @@
 # Automate-morning-text
-Automate morning text python project
+Simple Automate morning text python project
+
